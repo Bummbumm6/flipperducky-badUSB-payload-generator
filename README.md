@@ -1,8 +1,5 @@
-## Identical fork of the original project with GitHub Pages!
-
-
-
-# flipperducky-badUSB-payload-generator
+# Identical fork of the original project with GitHub Pages!
+flipperducky-badUSB-payload-generator
 GUI (Graphic user interface) in HTML, CSS, JavaScript, to make easyer and faster to create payload (.txt) for you Flipper Zero's bad-USB function.
 ---
 ## From this gist
